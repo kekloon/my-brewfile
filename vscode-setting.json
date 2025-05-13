@@ -1,0 +1,178 @@
+{
+  "[go]": {
+    "editor.defaultFormatter": "golang.go",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "Sophisticode.php-formatter"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "[python]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "true"
+    },
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[terraform-vars]": {
+    "editor.formatOnSave": true
+  },
+  "[terraform]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  },
+  "cmake.options.statusBarVisibility": "visible",
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "cmake.showOptionsMovedNotification": false,
+  "color-highlight.markerType": "dot-before",
+  "color-highlight.matchRgbWithNoFunction": true,
+  "css.format.spaceAroundSelectorSeparator": true,
+  "cursor.cpp.disabledLanguages": [],
+  "dart.openDevTools": "flutter",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.accessibilitySupport": "off",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.debug": true,
+  "eslint.format.enable": true,
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "afterDelay",
+  "git.autofetch": true,
+  "git.ignoreMissingGitWarning": true,
+  "git.openRepositoryInParentFolders": "never",
+  "gitHistory.alwaysPromptRepositoryPicker": true,
+  "gitHistory.hideCommitViewExplorer": true,
+  "gitHistory.sideBySide": true,
+  "github.copilot.chat.runCommand.enabled": false,
+  "github.copilot.enable": {
+    "*": false,
+    "markdown": false,
+    "plaintext": false,
+    "scminput": false
+  },
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "makefile.configureOnOpen": false,
+  "mssql.objectExplorer.groupBySchema": false,
+  "nxConsole.showNodeVersionOnStartup": false,
+  "prettier.enableDebugLogs": true,
+  "prettier.trailingComma": "all",
+  "prisma.showPrismaDataPlatformNotification": false,
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "sdart.flutterSdkPath": "/Users/wongkekloon/Desktop/Work/flutter",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.env.osx": {
+    "CW_NEW_SESSION": "1",
+    "FIG_NEW_SESSION": "1",
+    "Q_NEW_SESSION": "1"
+  },
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.profiles.osx": {
+    "bash": {
+      "args": ["-l"],
+      "icon": "terminal-bash",
+      "path": "/bin/bash"
+    },
+    "csh": {
+      "path": "/bin/csh"
+    },
+    "fish": {
+      "args": ["-l"],
+      "path": "fish"
+    },
+    "pwsh": {
+      "icon": "terminal-powershell",
+      "path": "pwsh"
+    },
+    "sh": {
+      "path": "/bin/sh"
+    },
+    "tmux": {
+      "icon": "terminal-tmux",
+      "path": "tmux"
+    },
+    "zsh": {
+      "args": ["-l"],
+      "path": "zsh"
+    },
+    "Nushell": {
+      "args": ["-l"],
+      "path": "/opt/homebrew/bin/nu"
+    }
+  },
+  "terminal.integrated.shell.osx": "/bin/bash",
+  "terraform.experimentalFeatures.prefillRequiredFields": true,
+  "terraform.experimentalFeatures.validateOnSave": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "workbench.settings.applyToAllProfiles": [
+    "terminal.integrated.tabs.location"
+  ],
+  "background.enabled": true,
+  "background.fullscreen": {
+    "images": [
+      "file:///Users/wongkekloon/Desktop/画像/FV98tKiacAA8buw-Photoroom.png"
+    ],
+    "opacity": 0.15,
+    "size": "contain",
+    "position": "right",
+    "interval": 0,
+    "random": false
+  },
+  "yaml.customTags": [
+    "!And",
+    "!And sequence",
+    "!If",
+    "!If sequence",
+    "!Not",
+    "!Not sequence",
+    "!Equals",
+    "!Equals sequence",
+    "!Or",
+    "!Or sequence",
+    "!FindInMap sequence",
+    "!Base64",
+    "!Base64 mapping",
+    "!Cidr",
+    "!Cidr sequence",
+    "!Ref",
+    "!Sub",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!Select",
+    "!Select sequence",
+    "!Split",
+    "!Split sequence",
+    "!Join sequence"
+  ],
+  "docker.extension.dockerEngineAvailabilityPrompt": false
+}
